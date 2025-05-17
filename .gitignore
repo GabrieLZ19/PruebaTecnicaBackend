@@ -1,0 +1,17 @@
+# Ignora carpetas de build
+/target
+/.idea
+*.iml
+
+# Ignora configuración de Eclipse
+.classpath
+.project
+.settings/
+
+# Ignora archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignora logs y archivos temporales
+*.log
+*.tmp
